@@ -1,0 +1,838 @@
+﻿Num,Brand,Model_Name,Processor,Operating_System,Storage_MB,RAM_GB,Screen_Size,Touch_Screen,Price
+0,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+1,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+2,Apple,2020 Macbook Air,M1,Mac OS Big Sur,256,8,33.78,No,851.88
+3,Apple,2020 Macbook Air,M1,Mac OS Big Sur,256,8,33.78,No,851.88
+4,Apple,2020 Macbook Air,M1,Mac OS Big Sur,256,8,33.78,No,851.88
+5,Lenovo,V15 G3 IAP,Core i7,Windows 11 Home,512,16,39.62,No,599.88
+6,ASUS,X515EA-EJ522WS,Core i5,Windows 11 Home,-1,8,39.62,No,491.88
+7,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+8,ASUS,X1500EA-EJ311W,Core i3,Windows 11 Home,256,8,39.62,No,335.88
+9,HP,15-fb0147AX,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,551.88
+10,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+11,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.98
+12,DELL,New Inspiron 15 Laptop,Core i5,Windows 11 Home,512,8,39.62,No,551.98
+13,ASUS,Gaming F15,Core i5,Windows 11 Home,2000,8,39.62,No,575.88
+14,ASUS,E510MA-EJ001W,Celeron Dual Core,Windows 11 Home,256,4,39.62,No,239.88
+15,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+16,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+17,Lenovo,Lenovo V15,Celeron Dual Core,Windows 11 Home,-1,8,39.62,No,275.88
+18,Acer,EX215-23,Ryzen 5 Quad Core,Windows 11 Home,512,8,39.62,No,359.88
+19,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+20,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+21,DELL,Inspiron 3520,Core i3,Windows 11 Home,512,8,39.62,No,431.75
+22,SAMSUNG,NP550,Core i5,Windows 11 Home,512,16,39.62,No,575.88
+23,ASUS,K3504VAB-NJ322WS,Core i3,Windows 11 Home,512,8,39.62,No,479.88
+24,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+25,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+26,DELL,Inspiron 3520,Core i3,Windows 11 Home,512,8,96.52,No,437.75
+27,Lenovo,15IAU7,Core i3,Windows 11 Home,512,8,100.63,No,431.88
+28,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+29,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+30,HP,15s- eq2144au,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,467.88
+31,HP,e0333ax,Ryzen 5 Hexa Core,Windows 11 Home,512,16,40.89,No,1060.88
+32,MSI,Modern 14 C7M-063IN,Ryzen 5 Hexa Core,Windows 11 Home,512,8,35.56,No,407.88
+33,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.98
+34,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+35,ASUS,X515EA-EJ342WS,Core i3,Windows 11 Home,2000,16,39.62,No,407.88
+36,MSI,Thin GF63 12UC-846IN,Core i5,Windows 11 Home,512,16,39.62,No,635.88
+37,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+38,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+39,DELL,Inspiron 3520,Core i3,Windows 11 Home,512,8,39.62,No,431.75
+40,MSI,Bravo 15 B5ED,Ryzen 7 Octa Core,Windows 11 Home,2000,16,39.62,No,659.88
+41,MSI,Modern 14 C11M-031IN,Core i3,Windows 11 Home,512,8,35.56,No,347.88
+42,ASUS,15,Core i3,Windows 11 Home,512,8,39.62,No,443.88
+43,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+44,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+45,Infinix,XL422,Core i3,Windows 11 Home,512,8,35.56,No,335.88
+46,MSI,GF63 Thin 11UC-1294IN,Core i7,Windows 11 Home,4000,16,39.62,No,801.36
+47,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+48,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+49,HP,255 G8,Ryzen 3 Dual Core,DOS,512,8,39.62,Yes,366.00
+50,Ultimus,NU14U3INC43BN-MB,Celeron Dual Core,Windows 11 Home,128,4,35.81,No,143.88
+51,Acer,A715-76G,Core i5,Windows 11 Home,512,16,39.62,No,695.88
+52,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+53,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+54,Acer,AN515-58,Core i7,Windows 11 Home,1000,16,39.62,No,1079.88
+55,ASUS,X1502ZA-EJ953WS,Core i3,Windows 11 Home,1000,8,39.62,No,443.88
+56,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.98
+57,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+58,ASUS,Vivobook 15,Core i3,Windows 11 Home,2000,8,39.62,No,522.40
+59,CHUWI,Hero Book Pro,Celeron Dual Core,Windows 11 Home,256,8,35.81,No,227.88
+60,Lenovo,V15 G3 IAP,Core i3,Windows 11 Home,512,8,39.62,No,394.07
+61,Lenovo,15ITL6,Core i5,Windows 11 Home,-1,16,39.62,No,539.88
+62,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+63,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+64,ASUS,E1504FA-NJ322WS,Ryzen 3 Quad Core,Windows 11 Home,1000,8,39.62,No,407.88
+65,ASUS,S3402ZA-KM501WS,Core i5,Windows 11 Home,-1,16,35.56,No,791.88
+66,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+67,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+68,DELL,New Inspiron 15 Laptop,Core i5,Windows 11 Home,1000,8,39.62,No,599.88
+69,Lenovo,16IAH8,Core i5,Windows 11 Home,512,16,40.64,No,734.27
+70,Apple,MacBook Pro,M2,Mac OS Monterey,256,8,33.78,No,1199.88
+71,SAMSUNG,Galaxy Book3,Core i5,Windows 11 Home,512,8,39.62,No,839.88
+72,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+73,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+74,Lenovo,15ACH6,Ryzen 5 Hexa Core,Windows 11 Home,512,8,100.63,No,551.88
+75,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,485.88
+76,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+77,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.98
+78,Acer,A315-510P,Core i3,Windows 11 Home,256,8,39.62,No,359.75
+79,Infinix,INBook Y1 Plus,Core i3,Windows 11 Home,512,8,39.62,No,311.88
+80,ASUS,X1502ZA-EJ515WS,Core i5,Windows 11 Home,1000,8,39.62,No,575.88
+81,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+82,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+83,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+84,ASUS,TN3402QA-LZ740WS,Ryzen 7 Octa Core,Windows 11 Home,512,16,35.56,Yes,779.88
+85,HP,15s- eq2144au,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,521.88
+86,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+87,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+88,ASUS,E1504FA-LK521WS,Ryzen 5 Quad Core,Windows 11 Home,512,8,39.62,No,551.88
+89,ASUS,E1404GA-NK322WS,Core i3,Windows 11 Home,512,8,35.56,No,431.88
+90,Infinix,INBook Y2 Plus,Core i5,Windows 11 Home,512,16,39.62,No,419.88
+91,HP,15-fe0027TU,Core i5,Windows 11 Home,512,16,39.62,Yes,1064.28
+92,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+93,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+94,Acer,A514-56GM,Core i5,Windows 11 Home,512,16,35.56,No,683.88
+95,Acer,AN515-58,Core i7,Windows 11 Home,512,16,39.62,No,1043.88
+96,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+97,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+98,MSI,Modern 14 C11M-030IN,Core i5,Windows 11 Home,512,8,35.56,No,443.88
+99,ASUS,Vivobook 16X,Ryzen 7 Octa Core,Windows 11 Home,512,16,40.64,No,688.68
+100,Infinix,XL30,Celeron Quad Core,Windows 11 Home,512,8,39.01,No,287.88
+101,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+102,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+103,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+104,DELL,Inspiron 3511,Core i5,Windows 11 Home,512,8,39.62,No,551.88
+105,ASUS,X515EA-EJ312W,Core i3,Windows 11 Home,2000,8,39.62,No,335.88
+106,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+107,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+108,HP,15s- eq1580AU,Ryzen 3 Dual Core,Windows 11 Home,512,8,39.62,No,371.99
+109,HP,15-fb0131AX,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,705.60
+110,HP,14s - dy2508TU,Core i3,Windows 11 Home,512,8,35.56,No,520.19
+111,HP,15-fd0011TU,Core i5,Windows 11 Home,512,8,39.62,No,725.88
+112,HP,14c-cc0010TU,Core i5,Chrome,256,8,35.56,No,755.88
+113,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+114,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+115,Lenovo,15ITL05,Core i3,Windows 11 Home,-1,8,39.62,No,395.88
+116,MSI,Modern 14 C7M-062IN,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,455.88
+117,HP,15s-ey1509AU,Athlon Dual Core,Windows 11 Home,512,8,39.62,No,368.28
+118,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+119,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+120,Apple,MacBook Air,M2,Mac OS Monterey,256,8,34.54,No,1259.88
+121,HP,255 G8 Laptop,Ryzen 3 Dual Core,DOS,512,8,39.62,No,287.99
+122,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+123,HP,14c-cc0010TU,Core i5,Chrome,256,8,35.56,No,755.88
+124,ASUS,E1504FA-LK321WS,Ryzen 3 Quad Core,Windows 11 Home,1000,8,39.62,No,479.88
+125,Lenovo,V15 G2 ALC,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,419.88
+126,ASUS,E1504FA-LK323WS,Ryzen 3 Quad Core,Windows 11 Home,512,8,39.62,No,479.88
+127,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+128,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+129,HP,15s-fy5006TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+130,HP,14s - dy2507TU,Core i3,Windows 11 Home,256,8,35.56,No,431.88
+131,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+132,HP,15-fd0011TU,Core i5,Windows 11 Home,512,8,39.62,No,725.88
+133,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+134,Lenovo,15IRU8,Core i3,Windows 11 Home,512,8,39.62,No,539.88
+135,HP,14-dv2014TU,Core i5,Windows 11 Home,512,16,35.56,No,767.99
+136,ASUS,UP5401ZA-KU541WS,Core i5,Windows 11 Home,512,16,35.56,Yes,923.88
+137,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+138,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+139,WINGS,WL-Nuvobook V1-GRN,Core i5,Windows 11 Home,512,8,39.62,No,335.88
+140,HP,14a-ca0504TU,Celeron Quad Core,Chrome,64,4,35.56,Yes,294.00
+141,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+142,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+143,Lenovo,15APH8,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,1223.88
+144,Ultimus,NU14U3INF56BN-SG,Core i5,Windows 11 Home,512,8,35.81,Yes,239.88
+145,ASUS,FX506HF-HN026W,Core i5,Windows 11 Home,1000,8,39.62,No,671.88
+146,Infinix,ZL513,Core i5,Windows 11 Home,512,16,39.62,No,587.88
+147,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+148,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+149,Infinix,XL28,Core i5,Windows 11 Home,512,8,39.62,No,359.88
+150,CHUWI,FreeBook,Core i3,Windows 11 Home,512,12,34.29,Yes,407.88
+151,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+152,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+153,ASUS,S3402ZA-KM502WS,Core i5,Windows 11 Home,-1,16,35.56,No,791.88
+154,MSI,Thin GF63 12VF-663IN,Core i7,Windows 11 Home,2000,16,39.62,No,959.88
+155,ASUS,X415EA-EK344WS,Core i3,Windows 11 Home,512,16,35.56,No,431.88
+156,Acer,Aspire 3,Core i5,Windows 11 Home,512,16,39.62,No,539.88
+157,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+158,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+159,ASUS,M1605YA-MB551WS,Ryzen 5 Hexa Core,Windows 11 Home,1000,16,40.64,No,647.88
+160,Lenovo,15ARH7,Ryzen 5 Hexa Core,Windows 11 Home,512,16,39.62,No,683.88
+161,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+162,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+163,MSI,Thin GF63 12VF-268IN,Core i5,Windows 11 Home,2000,16,39.62,No,899.88
+164,ASUS,X1605VAB-MB544WS,Core i5,Windows 11 Home,512,16,40.64,No,731.88
+165,HP,15s-fq5112TU,Core i5,Windows 11 Home,512,16,39.62,No,695.88
+166,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+167,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+168,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+169,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+170,HP,15-fd0024TU,Core i7,Windows 11 Home,512,16,39.62,No,955.08
+171,Lenovo,15IHU6,Core i5,Windows 11 Home,512,8,39.62,No,611.88
+172,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+173,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+174,Infinix,INBook X1 Neo,Celeron Quad Core,Windows 11 Home,256,8,35.56,No,299.88
+175,Lenovo,15ARH7,Ryzen 5 Hexa Core,Windows 11 Home,512,16,39.62,No,814.68
+176,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+177,HP,15-fd0011TU,Core i5,Windows 11 Home,512,8,39.62,No,725.88
+178,DELL,Inspiron 3511,Core i3,Windows 11 Home,512,8,96.52,No,443.88
+179,HP,HP Pavilion 15,Ryzen 5 Hexa Core,Windows 11 Home,512,8,38.1,No,611.88
+180,Lenovo,15IRU8,Core i3,Windows 11 Home,512,8,39.62,No,539.88
+181,MSI,GF63 Thin 11UCX-1496IN,Core i5,Windows 11 Home,4000,16,39.62,No,611.88
+182,Lenovo,15IAU7,Core i3,Windows 11 Home,-1,8,39.62,No,431.88
+183,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+184,ASUS,X1605VAB-MB544WS,Core i5,Windows 11 Home,512,16,40.64,No,731.88
+185,HP,15-fb0135AX,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,695.88
+186,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+187,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+188,ASUS,M1605YA-MB551WS,Ryzen 5 Hexa Core,Windows 11 Home,1000,16,40.64,No,647.88
+189,ASUS,X1504ZA-NJ521WS,Core i5,Windows 11 Home,512,8,39.62,No,575.88
+190,HP,15-fe0027TU,Core i5,Windows 11 Home,512,16,39.62,Yes,1064.28
+191,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+192,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+193,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+194,MSI,Thin GF63 12VF-268IN,Core i5,Windows 11 Home,2000,16,39.62,No,899.88
+195,Infinix,XL30,Celeron Quad Core,Windows 11 Home,512,8,39.01,No,287.88
+196,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+197,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+198,ASUS,TN3402QA-LZ520WS,Ryzen 5 Hexa Core,Windows 11 Home,1000,8,35.56,Yes,707.88
+199,DELL,Inspiron 3511,Core i5,Windows 11 Home,512,8,39.62,Yes,527.88
+200,SAMSUNG,Galaxy Book3,Core i7,Windows 11 Home,512,16,39.62,No,1079.88
+201,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+202,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+203,HP,15s-fy5007TU,Core i5,Windows 11 Home,512,8,39.62,No,635.88
+204,ASUS,M1502QA-EJ741WS,Ryzen 7 Octa Core,Windows 11 Home,1000,16,39.62,No,599.88
+205,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+206,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+207,SAMSUNG,Galaxy Book3,Core i5,Windows 11 Home,512,16,39.62,No,899.88
+208,DELL,Vostro,Core i3,Windows 10,256,8,38.0,No,419.88
+209,Infinix,INBook X2 Plus Core i7,Core i7,Windows 11 Home,1000,16,39.62,No,491.88
+210,ASUS,E1404FA-NK321WS,Ryzen 3 Quad Core,Windows 11 Home,512,8,35.81,No,413.99
+211,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+212,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+213,Infinix,INBook Y2 Plus,Core i3,Windows 11 Home,512,8,39.62,No,329.88
+214,DELL,Inspiron 3520,Core i5,Windows 11 Home,512,8,39.62,No,641.76
+215,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+216,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+217,HP,13b-ca0006MU,MediaTek Kompanio 1200,Chrome,256,8,33.78,No,431.88
+218,ASUS,GA401QE-K2166TS,Ryzen 9 Octa Core,Windows 10 Home,1000,16,35.56,No,1079.88
+219,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+220,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+221,WINGS,WL-Nuvobook V1-BLU,Core i5,Windows 11 Home,512,8,39.62,No,335.88
+222,Lenovo,V15 G4,Ryzen 3 Quad Core,Windows 11 Home,512,8,39.62,No,357.60
+223,ASUS,E510MA-EJ011WS,Celeron Dual Core,Windows 11 Home,1000,8,39.62,No,299.88
+224,HP,15-fb0137AX,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,803.88
+225,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+226,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+227,Infinix,INBook X2 Plus Core i7,Core i7,Windows 11 Home,1000,16,39.62,No,491.88
+228,HP,14s-fy1003AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,545.88
+229,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+230,HP,Notebook,Core i5,Windows 11 Home,512,16,39.62,No,611.99
+231,HP,15a- na0012TU,Celeron Dual Core,Chrome,128,4,39.62,No,265.20
+232,Lenovo,Lenovo V15,Celeron Dual Core,DOS,256,8,39.62,No,263.88
+233,ASUS,M6500QFB-LK742WS,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,815.88
+234,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+235,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+236,Infinix,XL30,Celeron Quad Core,Windows 11 Home,128,4,39.62,No,251.88
+237,Acer,A315-24P,Ryzen 3 Quad Core,Windows 11 Home,256,8,39.62,No,335.88
+238,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+239,DELL,INSP 5620,Core i3,Windows 11 Home,512,8,40.64,Yes,527.88
+240,Acer,ANV15-51,Core i5,Windows 11 Home,512,16,39.62,No,779.88
+241,ASUS,K3504VAB-NJ541WS,Core i5,Windows 11 Home,512,16,39.62,No,714.00
+242,Infinix,XL422,Core i5,Windows 11 Home,512,16,35.56,No,467.88
+243,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+244,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+245,ZEBRONICS,ZEB-NBC 2S,Core i5,Windows 11 Home,512,16,39.62,No,395.88
+246,Infinix,INBook Y1 Plus,Core i3,Windows 11 Home,256,8,39.62,No,345.48
+247,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+248,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+249,HP,15s- ey2001au,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,647.88
+250,Primebook,Primebook S 4G,MediaTek MT8788,Prime OS,128,4,29.46,No,203.88
+251,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+252,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+253,Lenovo,15ACH6H,Ryzen 7 Octa Core,Windows 11 Home,1000,16,39.62,No,1199.88
+254,Acer,PHN16-71,Core i7,Windows 11 Home,512,16,40.64,No,1439.88
+255,HP,15a- na0012TU,Celeron Dual Core,Chrome,128,4,39.62,No,311.22
+256,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+257,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+258,ZEBRONICS,ZEB-NBC 3S,Core i3,Windows 11 Home,512,8,39.62,No,383.88
+259,ASUS,ROG Strix G15,Ryzen 7 Octa Core,Windows 11 Home,1000,16,39.62,Yes,1019.88
+260,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+261,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+262,ASUS,RC71L-NH019W,Ryzen Z1 HexaCore,Windows 11 Home,512,16,17.78,Yes,635.88
+263,Infinix,XL25,Core i5,Windows 11 Home,512,16,39.62,No,455.88
+264,ASUS,G513RC-HN083W,Ryzen 7 Octa Core,Windows 11 Home,1000,16,39.62,No,983.88
+265,MSI,Katana 17 B13UDXK-255IN,Core i7,Windows 11 Home,4000,16,43.94,No,1127.88
+266,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+267,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+268,HP,Notebook,Core i7,Windows 11 Home,512,16,39.62,No,820.48
+269,Lenovo,15IGL05,Celeron Dual Core,Windows 11 Home,256,8,39.62,No,323.88
+270,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+271,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+272,ASUS,M6500QF-HN521W,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,611.88
+273,ASUS,K3605ZC-MBN541WS,Core i5,Windows 11 Home,512,16,40.64,No,839.88
+274,HP,15-fb1016AX,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,772.80
+275,WINGS,WL-Nuvobook S1-SLV,Core i3,Windows 11 Home,256,8,39.62,No,299.88
+276,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+277,Lenovo,15AMN7,Ryzen 3 Quad Core,Windows 11 Home,-1,8,39.62,No,407.88
+278,HP,15s-fy5007TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+279,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+280,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+281,DELL,Inspiron 3530,Core i5,Windows 11 Home,1000,16,39.62,No,779.88
+282,ASUS,Chromebook,Celeron Dual Core,Chrome,64,4,35.56,Yes,287.99
+283,Acer,A315-59,Core i3,Windows 11 Home,512,8,39.62,No,382.68
+284,Acer,ANV15-51,Core i5,Windows 11 Home,512,8,39.62,No,755.88
+285,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+286,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+287,MSI,Thin GF63 12VE-070IN,Core i7,Windows 11 Home,2000,16,39.62,No,959.88
+288,HP,15-fb0150AX,Ryzen 5 Hexa Core,Windows 11 Home,512,16,39.62,Yes,659.99
+289,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+290,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+291,HP,14-dv1000TU,Core i5,Windows 11 Home,512,8,35.56,No,692.16
+292,DELL,Inspiron,Core i5,Windows 11 Home,512,8,39.62,No,842.39
+293,DELL,G15-5525,Ryzen 7 Octa Core,Windows 11 Home,512,16,96.52,No,1116.04
+294,Lenovo,15ACH6H,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,1187.88
+295,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+296,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+297,Infinix,ZL513,Core i7,Windows 11 Home,1000,32,39.62,No,695.88
+298,DELL,G15-5520,Core i7,Windows 11 Home,512,16,96.52,No,1772.27
+299,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+300,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+301,Apple,MacBook Pro,M2,Mac OS Monterey,512,8,33.78,No,1643.88
+302,HP,15s,Core i3,Windows 11 Home,512,8,39.62,Yes,474.60
+303,MSI,Katana 15 B12VFK-299IN,Core i7,Windows 11 Home,4000,16,39.62,No,1247.88
+304,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+305,HP,15s FR2508TU,Core i3,Windows 11 Home,512,8,39.62,No,462.00
+306,Acer,Aspire 5,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+307,ASUS,TUF Gaming F15,Core i7,Windows 11 Home,1000,16,39.62,Yes,899.88
+308,ASUS,FX707ZC4-HX048WS,Core i5,Windows 11 Home,3000,8,43.94,No,1031.88
+309,HP,15s- eq2223AU,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,522.00
+310,MSI,Katana 17 B13VEK-254IN,Core i7,Windows 11 Home,4000,16,43.94,No,1331.88
+311,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+312,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+313,Lenovo,15IRH8,Core i7,Windows 11 Home,512,16,39.62,No,1295.88
+314,HP,15-fd0019TU,Core i3,Windows 11 Home,512,8,39.62,No,565.43
+315,CHUWI,CoreBook X,Core i5,Windows 11 Home,1000,16,35.56,No,395.88
+316,CHUWI,CoreBook X,Core i3,Windows 11 Home,512,8,35.56,No,299.88
+317,ASUS,FX507ZC4-HN116W,Core i5,Windows 11 Home,2000,16,39.62,No,1031.88
+318,DELL,Inspiron 3505,Ryzen 3 Dual Core,Windows 10,1000,8,39.62,No,430.26
+319,ASUS,K3605ZC-MBN542WS,Core i5,Windows 11 Home,512,16,40.64,No,839.88
+320,HP,15-eg2017TU,Core i3,Windows 11 Home,512,8,39.62,No,627.00
+321,CHUWI,FreeBook,Core i3,Windows 11 Home,512,12,34.29,Yes,407.88
+322,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+323,MSI,Thin GF63 12VE-664IN,Core i7,Windows 11 Home,2000,16,39.62,No,1091.88
+324,ASUS,X515JA-BQ322WS,Core i3,Windows 11 Home,512,8,39.62,No,407.88
+325,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+326,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+327,ASUS,Vivobook 15 X1504ZA,Core i5,Windows 11 Home,512,8,39.62,Yes,575.88
+328,HP,15s FR2508TU,Core i3,Windows 11 Home,512,8,39.62,Yes,462.00
+329,Infinix,Inbook,Core i5,Windows 11 Home,512,16,35.56,No,419.88
+330,DELL,Inspiron 3520,Core i3,Windows 11 Home,512,8,39.62,No,504.00
+331,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+332,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+333,HP,XD0007ax,Ryzen 7 Octa Core,Windows 11 Home,1000,16,40.89,No,1331.88
+334,HP,16-wd0880TX,Core i5,Windows 11 Home,512,16,40.89,No,1139.88
+335,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+336,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+337,Infinix,XL25,Core i3,Windows 11 Home,256,8,39.62,No,359.88
+338,ASUS,CM3000DVA-HT0038,MediaTek Kompanio 500,Chrome,128,4,26.67,Yes,275.88
+339,MSI,Titan GT77HX 13VH-093IN,Core i9,Windows 11 Home,6000,64,43.94,No,5879.88
+340,ASUS,X1502ZA-EJ331WS,Core i3,Windows 11 Home,512,8,39.62,No,551.88
+341,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+342,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+343,ASUS,K513EA-L312WS,Core i3,Windows 11 Home,512,8,39.62,No,546.00
+344,ASUS,X515EA-EJ522WS,Core i5,Windows 11 Home,512,8,39.62,No,541.39
+345,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+346,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+347,Lenovo,15IAU7,Core i3,Windows 11 Home,256,8,39.62,No,389.88
+348,Lenovo,V15 G4,Ryzen 3 Quad Core,DOS,512,8,39.62,No,335.88
+349,SAMSUNG,Galaxy Book3 Pro 360,Core i7,Windows 11 Home,512,16,40.64,Yes,1847.88
+350,DELL,Vostro 3425,Ryzen 5 Hexa Core,Windows 11 Home,512,8,35.56,No,467.88
+351,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+352,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+353,Acer,A515-56,Core i5,Windows 11 Home,512,8,39.62,No,587.88
+354,Acer,Aspire Lite,Core i5,Windows 11 Home,512,8,39.62,Yes,472.19
+355,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+356,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+357,Lenovo,14M868,MediaTek Kompanio 520,Chrome,128,8,35.56,No,251.88
+358,HP,Pavilion x360 2-in-1,Core i7,Windows 11 Home,512,16,35.56,Yes,1079.88
+359,HP,14-dv2053TU,Core i5,Windows 11 Home,512,8,35.56,No,731.88
+360,Lenovo,V15 G2 ALC,Ryzen 3 Quad Core,Windows 11 Home,512,8,39.62,No,407.99
+361,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+362,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+363,ASUS,E1404FA-NK322WS,Ryzen 3 Quad Core,Windows 11 Home,512,8,35.56,No,413.88
+364,Infinix,Inbook,Core i7,Windows 11 Home,512,16,35.56,No,587.88
+365,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+366,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+367,DELL,Inspiron 3505,Ryzen 3 Dual Core,Windows 10,1000,8,39.62,No,430.26
+368,HP,14s,Ryzen 5 Hexa Core,Windows 10 Home,512,8,35.56,No,638.40
+369,DELL,Vostro 3425,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,611.88
+370,HP,15s-fq2717TU,Core i3,Windows 11 Home,2000,8,39.62,No,449.88
+371,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+372,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+373,Acer,Swift Go 14,Ryzen 5 Hexa Core,Windows 11 Home,512,8,35.56,No,659.88
+374,HP,15s-fq5112TU,Core i5,Windows 11 Home,512,16,39.62,No,695.88
+375,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+376,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+377,ASUS,X515EA-EZ311WS,Core i3,Windows 11 Home,-1,8,39.62,Yes,467.88
+378,MSI,Katana 15 B12UDXK-1006IN,Core i5,Windows 11 Home,4000,8,39.62,No,875.88
+379,HP,XD0007ax,Ryzen 7 Octa Core,Windows 11 Home,1000,16,40.89,No,1331.88
+380,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+381,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+382,Lenovo,14ITL6,Core i3,Windows 11 Home,512,8,35.56,No,419.88
+383,DELL,G15-5525,Ryzen 7 Octa Core,Windows 11 Home,512,16,96.52,No,1116.04
+384,CHUWI,CoreBook X,Core i5,Windows 11 Home,1000,16,35.56,No,395.88
+385,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+386,HP,Pavilion,Core i5,Windows 11 Home,512,16,35.56,Yes,785.99
+387,DELL,Inspiron 5430,Core i5,Windows 11 Home,1000,8,35.56,Yes,814.68
+388,DELL,Inspiron 3520,Core i3,Windows 11 Home,512,8,39.62,No,454.63
+389,DELL,VOSTRO,Core i5,Windows 11 Home,512,8,35.56,Yes,653.88
+390,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+391,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+392,ASUS,X515JA-BQ322WS,Core i3,Windows 11 Home,512,8,39.62,No,407.88
+393,Acer,A515-56,Core i5,Windows 11 Home,512,8,39.62,No,587.88
+394,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+395,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+396,HP,Pavilion x360 2-in-1,Core i7,Windows 11 Home,512,16,35.56,Yes,1079.88
+397,DELL,Inspiron 3511,Core i3,Windows 11 Home,1000,8,96.52,No,461.99
+398,ASUS,RC71L-NH001W,Ryzen Z1 Octa Core,Windows 11 Home,512,16,17.78,Yes,719.88
+399,Acer,Nitro,Ryzen 5 Hexa Core,Windows 10 Home,1000,8,39.62,No,755.88
+400,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+401,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+402,HP,15s-du3517TU,Core i5,Windows 11 Home,512,8,39.62,No,596.99
+403,ASUS,CX1500CKA-EJ0277,Celeron Dual Core,Chrome,128,4,39.62,No,203.88
+404,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+405,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+406,ASUS,X1404VA-NK542WS,Core i5,Windows 11 Home,512,16,35.56,No,719.88
+407,Lenovo,15APH8,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,1007.88
+408,Lenovo,15ACH6,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,634.68
+409,DELL,Inspiron 15 3511,Core i5,Windows 11 Home,512,8,39.62,Yes,551.88
+410,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+411,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+412,MSI,Raider GE66 12UGS,Core i7,Windows 11 Home,1000,16,39.62,No,1772.92
+413,Acer,CB314-3H,Celeron Dual Core,Chrome,128,8,35.56,No,287.88
+414,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+415,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+416,ASUS,FX507VU-LP083WS,Core i7,Windows 11 Home,512,16,39.62,No,1439.88
+417,Infinix,XL30,Celeron Quad Core,Windows 11 Home,128,4,39.62,No,251.88
+418,ASUS,FX506LHB-HN355W | FX506LH-HN258W,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+419,HP,Pavilion 15-EH3101AU,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,Yes,775.20
+420,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+421,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+422,GIGABYTE,G5 MF-E2IN313SH,Core i5,Windows 11 Home,512,16,39.62,No,875.88
+423,Lenovo,15ITL6,Core i3,Windows 11 Home,256,8,39.62,No,413.88
+424,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+425,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+426,ASUS,X1500EA,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+427,ASUS,GZ301ZE-LC193WS,Core i9,Windows 11 Home,1000,16,34.04,Yes,2399.88
+428,MSI,GF63 Thin 11SC-1493IN,Core i5,Windows 11 Home,4000,16,39.62,No,587.88
+429,Lenovo,16ARH7H,Ryzen 7 Octa Core,Windows 11 Home,1000,16,40.64,No,1319.88
+430,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+431,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+432,Lenovo,Ideapad 5 14ABR8,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,796.66
+433,Acer,A715-51G,Core i5,Windows 11 Home,512,8,39.62,No,702.00
+434,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+435,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+436,realme,Book Prime,Core i5,Windows 11 Home,512,16,35.56,No,683.99
+437,HP,15-fh0015AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,39.62,Yes,946.68
+438,Lenovo,ThinkBook 15 Gen 2,Core i5,Windows 10 Home,1000,16,38.1,No,706.68
+439,HP,15s-eq2132au,Ryzen 5 Hexa Core,Windows 11 Home,512,16,39.62,No,553.80
+440,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+441,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+442,ASUS,K3405ZF-LY542WS,Core i5,Windows 11 Home,512,16,35.56,No,779.88
+443,ASUS,FX506LHB-HN355W | FX506LH-HN258W,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+444,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+445,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+446,ASUS,G533ZXZ-LN116WS,Core i9,Windows 11 Home,1000,32,39.62,No,2159.88
+447,MSI,Modern 14 C13M-435IN,Core i7,Windows 11 Home,512,16,35.56,No,779.88
+448,ASUS,G614JU-N3221WS,Core i5,Windows 11 Home,1000,16,40.64,No,1739.88
+449,Acer,A715-76G,Core i5,Windows 11 Home,512,16,39.62,No,659.88
+450,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+451,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+452,SAMSUNG,Galaxy Book3 Pro,Core i7,Windows 11 Home,512,16,35.56,No,1499.88
+453,GIGABYTE,G5 MF-E2IN313SH,Core i5,Windows 11 Home,512,16,39.62,No,875.88
+454,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+455,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+456,WINGS,WL-Nuvobook S2-SLV,Core i3,Windows 11 Home,512,8,39.62,No,311.88
+457,HP,15-eg2091T,Core i5,Windows 11 Home,512,16,39.62,No,898.80
+458,Infinix,XL30,Celeron Quad Core,Windows 11 Home,128,4,39.62,No,251.88
+459,ASUS,M1603QA-MB511WS,Ryzen 5 Hexa Core,Windows 11 Home,512,16,40.64,No,646.68
+460,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+461,HP,14-dy1013TU,Core i7,Windows 11 Home,512,16,35.56,Yes,1031.99
+462,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+463,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+464,Lenovo,15IHU6,Core i5,Windows 11 Home,512,8,39.62,No,575.88
+465,GIGABYTE,G5 GE-51IN263SH,Core i5,Windows 11 Home,512,8,39.62,No,695.88
+466,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+467,HP,Pavilion x360,Core i5,Windows 11 Home,512,16,35.56,Yes,941.62
+468,Infinix,INBook X1,Core i3,Windows 11 Home,256,8,35.56,No,455.99
+469,HP,15-fa1060TX,Core i5,Windows 11 Home,512,16,39.62,Yes,1199.99
+470,HP,ef2033TU,Core i7,Windows 11 Home,1000,16,34.29,Yes,1661.88
+471,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+472,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+473,Lenovo,IdeaPad Slim 3i,Core i3,Windows 11 Home,512,8,39.62,Yes,532.80
+474,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+475,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+476,ASUS,M6500QFB-LK741WS,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,815.88
+477,Lenovo,s14,Core i5,Windows 11 Home,512,8,35.56,Yes,563.76
+478,Acer,Aspire 3,Core i3,Windows 11 Home,512,8,39.62,No,443.88
+479,HP,255 G8,Athlon Dual Core,Windows 11 Home,256,8,39.62,Yes,292.79
+480,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+481,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+482,MSI,Summit E16 Flip A13VET-068IN NVIDIA GeForce RTX 4050,Core i7,Windows 11 Home,1000,32,40.64,Yes,1919.88
+483,ASUS,X415EA-EK326WS,Core i3,Windows 11 Home,2000,8,35.56,No,390.00
+484,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+485,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+486,Infinix,XL28,Core i5,Windows 11 Home,512,8,39.62,No,359.88
+487,Acer,AN515-47,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,933.48
+488,HP,Victus,Ryzen 7 Octa Core,Windows 11 Home,512,8,38.1,Yes,736.80
+489,Infinix,XL21,Core i7,Windows 11 Home,512,16,35.56,No,659.88
+490,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+491,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+492,HP,HP 240 G8 (689U2PA),Core i3,Windows 11 Pro,512,8,35.56,Yes,413.88
+493,ASUS,KM513UA-L713WS,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,767.88
+494,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+495,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+496,MICROSOFT,QEZ-00065,Core i5,Windows 11 Home,256,8,33.02,Yes,1367.88
+497,HP,EG2002TU,Core i5,Windows 11 Home,512,16,39.62,No,820.80
+498,HP,15-fd0022TU,Core i5,Windows 11 Home,512,8,39.62,No,725.88
+499,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+500,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+501,Lenovo,IdeaPad Slim 5i,Core i5,Windows 11 Home,512,16,40.64,No,839.88
+502,DELL,G15-5525,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,1125.97
+503,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+504,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+505,MSI,Summit E16 Flip A13VET-068IN NVIDIA GeForce RTX 4050,Core i7,Windows 11 Home,1000,32,40.64,Yes,1919.88
+506,DELL,Inspiron 3521,Pentium Silver,Windows 11 Home,256,8,39.62,No,395.88
+507,HP,15s FR2508TU,Core i3,Windows 11 Home,512,8,39.62,Yes,462.00
+508,Infinix,XL28,Core i5,Windows 11 Home,512,8,39.62,No,359.88
+509,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+510,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+511,HP,15s-fq5013nia,Core i5,Windows 11 Home,512,8,39.62,No,695.88
+512,DELL,Inspiron 13 7000,Core i5,Windows 10 Home,256,8,33.78,Yes,843.48
+513,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+514,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+515,ASUS,KM513UA-L512WS,Ryzen 5 Hexa Core,Windows 11 Home,512,16,39.62,No,707.88
+516,SAMSUNG,Galaxy Book3 360,Core i7,Windows 11 Home,1000,16,33.78,Yes,1607.88
+517,ASUS,Vivobook Pro 15 Creator,Ryzen 5,Windows 11 Home,512,16,39.62,Yes,731.32
+518,ASUS,CX1400FKA-EC0158,Celeron Dual Core,Chrome,64,4,35.56,Yes,309.01
+519,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+520,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+521,Acer,Aspire 5 Gaming,Core i5,Windows 11 Home,512,8,39.62,No,659.88
+522,HP,15s-dy3501TU,Core i3,Windows 11 Home,512,8,39.62,No,550.79
+523,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+524,Acer,Swift Go 14,Ryzen 5 Hexa Core,Windows 11 Home,512,8,35.56,No,575.88
+525,Acer,AN515-57,Core i5,Windows 11 Home,512,8,39.62,No,839.88
+526,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+527,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+528,HP,15s- eq2213AU,Ryzen 3 Quad Core,Windows 11 Home,512,8,39.62,No,443.88
+529,ASUS,UM3402YA-KM541WS,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,839.88
+530,Lenovo,E41-55,Athlon Dual Core,DOS,-1,4,35.56,No,251.88
+531,HP,245 G8,Ryzen 5 Quad Core,Windows 11 Home,512,8,35.56,Yes,492.00
+532,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+533,ASUS,TUF GAMING F15,Core i5,Windows 11 Home,1000,8,39.62,Yes,671.88
+534,ASUS,X515EA-EJ701WS,Core i7,Windows 11 Home,512,16,39.62,No,719.88
+535,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+536,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+537,DELL,Latitude 3420,Core i5,Ubuntu,512,8,35.56,Yes,533.88
+538,Infinix,XL30,Celeron Quad Core,Windows 11 Home,128,4,39.62,No,251.88
+539,Lenovo,16APH8,Ryzen 7 Octa Core,Windows 11 Home,512,16,40.64,No,1367.88
+540,ASUS,M6500QC-HN542WS,Ryzen 5 Hexa Core,Windows 11 Home,512,16,39.62,No,852.00
+541,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+542,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+543,DELL,Gaming 5530,Core i5,Windows 11 Home,512,16,39.62,No,1075.79
+544,Acer,Aspire 7,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,573.00
+545,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+546,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+547,ASUS,Vivobook S 14 Flip,Ryzen 5,Windows 11 Home,1000,16,35.56,Yes,784.69
+548,DELL,Latitude 3420,Core i3,Windows 10 Pro,256,8,35.56,Yes,431.88
+549,DELL,Vostro 3425,Ryzen 3 Quad Core,Windows 11 Home,512,8,35.0,No,458.38
+550,DELL,Alienware x17 R2,Core i7,Windows 11 Home,1000,32,43.94,No,2854.68
+551,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+552,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+553,MSI,Raider GE78 HX 13VI-087IN,Core i9,Windows 11 Home,4000,64,43.94,No,4450.68
+554,HP,14s- dy2506TU,Core i3,Windows 11 Home,256,8,35.56,No,440.28
+555,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+556,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+557,Lenovo,Ideapad 3,Core i7,Windows 11 Home,512,16,39.62,Yes,712.68
+558,Acer,Aspire 5,Core i5,Windows 10 Home,1000,8,39.62,No,551.89
+559,DELL,XPS 13,Core i7,Windows 11 Home,512,16,34.04,Yes,1547.88
+560,MSI,CreatorPro M16 A12UIS,Core i7,Windows 11 Home,2000,16,40.64,No,1162.40
+561,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+562,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+563,HP,x360-bf0063TU,Core i7,Windows 11 Home,1000,16,33.78,Yes,1396.68
+564,ASUS,E510MA-EJ021WS,Celeron Dual Core,Windows 11 Home,512,8,39.62,No,335.88
+565,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+566,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+567,Apple,MK1A3HN/A,M1 Max,Mac OS Monterey,1000,32,41.15,No,3713.88
+568,ASUS,K3405VCB-KM541WS,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,779.88
+569,GIGABYTE,AORUS 15 BKF,Core i7,Windows 11 Pro,1000,16,39.62,No,1787.88
+570,HP,15-fa0188TX,Core i7,Windows 11 Home,512,16,39.62,Yes,983.88
+571,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+572,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+573,ASUS,Vivobook 17,Core i5,Windows 11 Home,512,16,43.94,No,705.60
+574,HP,16-d0333TX,Core i5,Windows 11 Home,512,16,40.89,No,755.88
+575,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+576,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+577,Apple,MPHG3HN/A,M2 Max,macOS Ventura,1000,32,35.56,No,3491.88
+578,DELL,Vostro 3420,Core i5,Windows 11 Home,512,8,35.56,No,599.99
+579,DELL,Vostro,Core i5,Windows 10,512,8,35.56,No,715.08
+580,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+581,Lenovo,ThinkBook 15 Gen 2,Core i5,Windows 10 Home,1000,16,38.1,No,706.68
+582,Lenovo,16ACH6H,Ryzen 7 Octa Core,Windows 11 Home,1000,16,40.64,No,1259.88
+583,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+584,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+585,HP,VICTUS 15-fb1002AX,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,Yes,611.88
+586,ASUS,Vivobook,Ryzen 5 Quad Core,Windows 11 Home,2000,16,39.62,No,635.88
+587,ASUS,Vivobook 16XK3605VU,Core i5,Windows 11 Home,512,16,40.64,Yes,1091.88
+588,Lenovo,14IAU7,Core i3,Windows 11 Home,512,8,90.32,No,430.56
+589,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+590,HP,15-fa0188TX,Core i7,Windows 11 Home,512,16,39.62,Yes,983.88
+591,Acer,EX215-54,Core i3,Windows 11 Home,256,4,39.62,No,354.00
+592,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+593,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+594,DELL,Vostro 3425,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,594.00
+595,ASUS,K3405VFB-KM541WS,Core i5,Windows 11 Home,512,16,35.56,No,995.88
+596,HP,245 G,Ryzen 3 Dual Core,DOS,512,8,35.56,No,287.88
+597,HP,15-fd0012TU,Core i5,Windows 11 Home,1000,8,39.62,No,794.96
+598,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+599,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+600,DELL,Vostro 5620,Core i5,Windows 11 Home,512,8,40.64,No,767.88
+601,MSI,Bravo 15 B7ED-011IN,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,899.88
+602,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+603,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+604,Lenovo,TB15 G4 IAP,Core i5,Windows 11 Pro,2000,16,39.62,No,719.88
+605,MICROSOFT,QEZ-00048,Core i5,Windows 11 Home,256,8,33.02,Yes,1367.88
+606,DELL,Vostro 3525,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,479.88
+607,ASUS,K3605ZC-MBN752WS,Core i7,Windows 11 Home,1000,16,40.64,No,1055.88
+608,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+609,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+610,Lenovo,15IRH8,Core i7,Windows 11 Home,512,16,39.62,No,1202.28
+611,Acer,Aspire 3,Core i3,Windows 10 Home,256,4,39.62,No,383.88
+612,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+613,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+614,Lenovo,V14,Core i5,Windows 10,256,8,35.56,Yes,492.00
+615,Acer,Aspire 3,Core i3,Windows 10 Home,256,4,39.62,No,383.88
+616,HP,14-ec0033AU,Ryzen 5 Hexa Core,Windows 10 Home,512,16,35.56,No,580.80
+617,DELL,Latitude 14,Core i7,Windows 11 Pro,512,16,35.56,No,1199.88
+618,Lenovo,15IRH8,Core i5,Windows 11 Home,512,16,39.62,No,779.88
+619,Lenovo,15IRH8,Core i5,Windows 11 Home,512,16,39.62,No,1091.88
+620,HP,15s- eq2212AU,Ryzen 3 Quad Core,Windows 11 Home,512,8,39.62,No,453.00
+621,ASUS,FA577NU-LP082W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,1139.88
+622,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+623,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+624,ASUS,Pro 15 OLED,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,Yes,899.88
+625,DELL,G15,Core i7,Windows 11 Home,512,16,39.62,No,1319.88
+626,Lenovo,ideapad 3,Core i5,Windows 11 Home,512,16,39.62,Yes,587.88
+627,ASUS,X415KA-EK111WS,Pentium Silver,Windows 11 Home,256,4,35.56,No,322.68
+628,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+629,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+630,HP,14s-dq2606tu,Core i3,Windows 11 Home,512,8,35.56,No,531.60
+631,HP,Omen,Ryzen 5 Hexa Core,Windows 10 Home,512,8,39.62,No,683.99
+632,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+633,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+634,DELL,Vostro 3400,Core i5,Windows 11 Home,512,8,35.56,No,583.00
+635,Lenovo,ThinkPad T14,Core i7,Windows 10,512,16,30.48,Yes,1329.48
+636,MSI,GF63 Thin 11UCX-1471IN,Core i5,Windows 11 Home,4000,8,39.62,No,587.88
+637,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+638,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+639,HP,15-fb0106AX,Ryzen 5 Hexa Core,Windows 11 Home,512,16,38.86,No,755.88
+640,Acer,A515-56G,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+641,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+642,ASUS,Zenbook 14 Flip OLED,Core i7,Windows 11 Home,1000,16,35.56,Yes,1654.68
+643,DELL,Inspiron 3511,Core i5,Windows 11 Home,512,8,39.62,No,610.80
+644,ASUS,K513EA-L302WS,Core i3,Windows 11 Home,256,8,39.62,No,474.00
+645,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+646,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+647,Lenovo,15IHU6,Core i5,Windows 11 Home,512,16,39.62,No,635.88
+648,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+649,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+650,ASUS,GX650RXZ-LS228WS,Ryzen 9 Octa Core,Windows 11 Home,2000,32,40.64,No,4343.88
+651,Lenovo,15IRH8,Core i5,Windows 11 Home,512,16,39.62,No,779.88
+652,HP,15-fd0011TU,Core i5,Windows 11 Home,512,8,39.62,No,725.88
+653,HP,Intel,Core i5,Windows 10 Pro,512,8,33.78,Yes,893.03
+654,HP,Victus 16,Core i5,Windows 11 Home,512,16,40.89,Yes,774.00
+655,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+656,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+657,HP,15s- eq2212AU,Ryzen 3 Quad Core,Windows 11 Home,512,8,39.62,No,453.00
+658,ASUS,Vivobook S15 OLED,Core i5,Windows 11 Home,512,16,39.62,Yes,888.00
+659,ASUS,TUF Gaming F15,Core i5,Windows 10 Home,512,8,39.62,No,659.88
+660,DELL,Inspiron 3511,Core i3,Windows 11 Home,1000,8,39.62,No,562.68
+661,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+662,Acer,Aspire 3,Core i3,Windows 10 Home,256,4,39.62,No,383.88
+663,HP,14-ec0033AU,Ryzen 5 Hexa Core,Windows 10 Home,512,16,35.56,No,580.80
+664,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+665,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+666,DELL,Latitude 14,Core i7,Windows 11 Pro,512,16,35.56,No,1199.88
+667,Lenovo,V14,Core i5,Windows 10,256,8,35.56,Yes,492.00
+668,ASUS,X415KA-EK111WS,Pentium Silver,Windows 11 Home,256,4,35.56,No,322.68
+669,ASUS,Pro 15 OLED,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,Yes,899.88
+670,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+671,DELL,G15,Core i7,Windows 11 Home,512,16,39.62,No,1319.88
+672,Lenovo,ideapad 3,Core i5,Windows 11 Home,512,16,39.62,Yes,587.88
+673,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+674,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+675,ASUS,FA577NU-LP082W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,1139.88
+676,HP,14s-dq2606tu,Core i3,Windows 11 Home,512,8,35.56,No,531.60
+677,MSI,Modern 14 C13M-438IN,Core i3,Windows 11 Home,512,8,35.56,No,503.88
+678,HP,15-fa0354TX,Core i7,Windows 11 Home,512,16,39.62,No,1100.77
+679,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+680,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+681,ASUS,UX3402VA-KM742WS,Core i7,Windows 11 Home,512,16,35.56,No,1175.88
+682,HP,16-e0162AX,Ryzen 5 Hexa Core,Windows 10 Home,512,8,40.89,No,706.80
+683,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+684,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+685,ASUS,FX517ZE-HN035WS,Core i7,Windows 11 Home,512,16,39.62,Yes,1167.47
+686,HP,15S-FQ2738TU,Core i3,Windows 11 Home,512,8,39.62,Yes,437.88
+687,HP,14-ec0033AU,Ryzen 5 Hexa Core,Windows 10 Home,512,16,35.56,No,580.80
+688,Apple,MacBook Pro,M3 Pro,macOS Sonoma,1000,18,35.56,No,2878.80
+689,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+690,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+691,HP,Victus,Core i5,Windows 11 Home,512,8,40.89,No,850.68
+692,ASUS,TUF Gaming F15,Core i5,Windows 10 Home,512,8,39.62,No,659.88
+693,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+694,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+695,Lenovo,15ITL6,Core i3,Windows 11 Home,256,8,39.62,No,413.88
+696,HP,Spectre x360 13,Core i7,Windows 11 Home,512,16,34.29,No,1580.16
+697,Lenovo,V14,Core i5,Windows 10,256,8,35.56,Yes,492.00
+698,MSI,Katana GF66 12UC-881IN,Core i5,Windows 11 Home,2000,8,39.62,No,875.88
+699,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+700,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+701,HP,15-fc0031AU,Ryzen 5 Quad Core,Windows 11 Home,512,16,39.62,No,601.08
+702,HP,14s-fy1005AU,Ryzen 7 Octa Core,Windows 11 Home,512,16,35.56,No,752.28
+703,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+704,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+705,HP,14s-ef1002tu,Core i3,Windows 11 Home,512,8,35.56,No,461.88
+706,HP,14-eh0024TU,Core i7,Windows 11 Home,1000,16,35.56,No,1198.20
+707,HP,Envy,Core i5,Windows 10 Home,256,8,33.78,No,772.69
+708,Acer,PHN16-71,Core i7,Windows 11 Home,1000,16,40.64,No,1655.99
+709,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+710,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+711,ASUS,VivoBook 14,Core i3,Windows 10 Home,512,4,35.56,No,510.00
+712,HP,250 G8,Core i3,Windows 10 Home,512,4,39.62,No,372.00
+713,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+714,Acer,A315-510P,Core i3,Windows 11 Home,256,8,39.62,Yes,383.88
+715,ASUS,VivoBook 15,Core i3,Windows 11 Home,512,8,39.62,Yes,389.88
+716,SAMSUNG,Galaxy Book3 Pro,Core i7,Windows 11 Home,1000,16,35.56,No,1691.88
+717,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+718,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+719,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+720,ZEBRONICS,ZEB-NBC 5S,Core i7,Windows 11 Home,512,16,39.62,No,611.88
+721,LG,LG Gram 14Z90Q-G.AJ56A2,Core i5,Windows 11 Home,512,8,35.56,No,777.14
+722,CHUWI,GemiBook X Pro,Celeron Quad Core,Windows 11 Home,256,8,35.81,No,263.88
+723,ASUS,M6500QC,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,851.88
+724,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+725,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+726,DELL,Vostro 3420,Core i5,Windows 11 Home,512,8,35.56,Yes,599.40
+727,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+728,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+729,ASUS,UX3402VA-KM742WS,Core i7,Windows 11 Home,512,16,35.56,No,1175.88
+730,Apple,MKGT3HN/A,M1 Pro,Mac OS Monterey,1000,16,36.07,No,2878.80
+731,DELL,Inspiron 3511,Core i3,Windows 11 Home,256,8,38.0,No,465.48
+732,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+733,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+734,ASUS,FX507ZC4-HN116WS,Core i5,Windows 11 Home,512,16,39.62,No,1029.60
+735,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+736,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+737,DELL,Inspiron 3501,Core i5,Windows 10 Home,1000,8,39.62,No,626.39
+738,HP,Natural Silver,Core i3,Windows 10 Home,512,8,39.62,No,486.00
+739,Lenovo,13ABR8,Ryzen 7 Octa Core,Windows 11 Home,1000,16,33.78,Yes,1029.01
+740,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+741,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+742,MSI,Modern 14 C12M-670IN,Core i7,Windows 11 Home,512,8,35.56,No,731.88
+743,LG,LG Gram 14Z90Q-G.AJ56A2,Core i5,Windows 11 Home,512,8,35.56,No,777.14
+744,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+745,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+746,DELL,Inspiron 5410,Core i5,Windows 10,512,8,35.56,Yes,923.88
+747,ASUS,Vivobook Go 14,Ryzen 5 Quad Core,Windows 11 Home,512,16,35.56,Yes,623.88
+748,Apple,MacBook Pro,Core i5,Mac OS Mojave,512,8,33.78,No,1955.88
+749,HP,15s- fq3066TU,Celeron Dual Core,Windows 11 Home,512,8,39.62,No,383.57
+750,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+751,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+752,ASUS,B9450FA-BM0696R,Core i7,Windows 10 Pro,1000,16,35.56,No,1832.53
+753,ASUS,VivoBook Ultra K15,Core i5,Windows 11 Home,512,16,39.62,Yes,770.40
+754,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+755,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+756,ASUS,Vivobook Go 15 OLED,Ryzen 5 Quad Core,Windows 11 Home,512,16,39.62,Yes,683.88
+757,ASUS,Vivobook-Pro-15-M6500,Ryzen 7 Quad Core,Windows 11 Home,512,16,39.62,Yes,818.40
+758,ASUS,FX506HCB-HN228T,Core i5,Windows 10 Home,1000,8,39.62,No,957.60
+759,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+760,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+761,MICROSOFT,Surface Laptop Go 3,Core i5,Windows 11 Home,256,16,31.5,Yes,1199.88
+762,Lenovo,V14,Core i5,Windows 11 Home,512,8,35.56,Yes,532.27
+763,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+764,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+765,Lenovo,15IAH7,Core i5,Windows 11 Home,512,16,39.62,No,899.88
+766,DELL,Inspiron 5410,Core i3,Windows 11 Home,512,8,35.56,Yes,647.99
+767,DELL,G15-5510,Core i5,Windows 10,512,16,39.62,No,750.00
+768,HP,Spectre Folio,Core i7,Windows 10 Home,512,16,33.78,Yes,2646.95
+769,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+770,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+771,DELL,Inspiron 3521,Pentium Silver,Windows 11 Home,256,8,39.62,No,395.88
+772,ASUS,K3605ZU-MBN541WS,Core i5,Windows 11 Home,512,16,40.64,No,923.88
+773,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+774,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+775,ZEBRONICS,ZEB-NBC 5S,Core i7,Windows 11 Home,512,16,39.62,No,611.88
+776,DELL,Inspiron 3535,Ryzen 5 Quad Core,Windows 11 Home,1000,8,39.62,No,593.88
+777,ASUS,Vivobook Go 15 OLED,Ryzen 5 Quad Core,Windows 11 Home,512,16,39.62,Yes,693.05
+778,HP,247 G8,Ryzen 5 Dual Core,Windows 11 Home,512,8,35.56,No,394.68
+779,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+780,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+781,ASUS,GX650PZ-NM047WS,Ryzen 9 16 Core,Windows 11 Home,2000,32,40.64,No,4199.88
+782,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+783,ASUS,TUF,Core i5,Windows 10 Home,512,8,39.62,No,810.00
+784,HP,15-EG2009TU,Core i5,Windows 11 Home,512,8,39.62,No,825.60
+785,SAMSUNG,Galaxy Book2 Pro,Core i5,Windows 11 Home,512,16,33.78,No,779.88
+786,ASUS,UM5401QA-KM541WS,Ryzen 5 Hexa Core,Windows 11 Home,-1,16,35.56,No,671.88
+787,HP,Notebook,Athlon Dual Core,DOS,256,4,39.62,No,231.59
+788,Lenovo,15ITL05,Core i3,Windows 11 Home,-1,8,39.62,No,395.88
+789,HP,15s-fq5202TU,Core i5,Windows 11 Home,512,8,39.62,No,647.88
+790,HP,255 G8 Laptop,Ryzen 3 Dual Core,DOS,512,8,39.62,No,287.99
+791,HP,15-fb1016AX,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,659.88
+792,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+793,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+794,HP,15s-fr4001TU,Core i5,Windows 11 Home,512,16,39.62,No,659.88
+795,GIGABYTE,RC45KD,Core i5,Windows 11 Home,512,16,39.62,No,755.88
+796,Infinix,XL30,Celeron Quad Core,Windows 11 Home,512,8,39.01,No,287.88
+797,ASUS,X1504ZA-NJ521WS,Core i5,Windows 11 Home,512,8,39.62,No,575.88
+798,HP,14-dv1000TU,Core i5,Windows 11 Home,512,8,35.56,No,692.16
+799,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+800,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+801,HP,15-fa0070TX,Core i5,Windows 11 Home,512,8,39.62,No,695.88
+802,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+803,Lenovo,11IGL05,Celeron Dual Core,Chrome,64,4,29.46,No,191.88
+804,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+805,ASUS,G513RC-HN061W,Ryzen 7 Octa Core,Windows 11 Home,512,16,39.62,No,935.88
+806,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+807,HP,16-wd0880TX,Core i5,Windows 11 Home,512,16,40.89,No,1139.88
+808,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+809,ASUS,Vivobook 15X,Core i5,Windows 11 Home,512,16,39.62,Yes,738.00
+810,HP,15s-fq5007TU,Core i3,Windows 11 Home,512,8,39.62,No,467.88
+811,Infinix,Inbook,Core i7,Windows 11 Home,512,16,35.56,No,587.88
+812,HP,ef2033TU,Core i7,Windows 11 Home,1000,16,34.29,Yes,1702.79
+813,HP,15s-fy5003TU,Core i3,Windows 11 Home,512,8,39.62,No,455.88
+814,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+815,MSI,Katana GF66 12UC-881IN,Core i5,Windows 11 Home,2000,8,39.62,No,875.88
+816,HP,15s-fy5002TU,Core i5,Windows 11 Home,512,8,39.62,No,599.88
+817,HP,15-eg3079TU,Core i5,Windows 11 Home,512,16,39.62,No,803.88
+818,HP,14-dv1029TU,Core i7,Windows 11 Home,1000,16,35.56,No,937.20
+819,HP,15s- fr4000TU,Core i5,Windows 11 Home,512,8,39.62,No,563.88
+820,HP,16-n0050AX,Ryzen 7 Octa Core,Windows 11 Home,512,16,40.89,No,1057.79
+821,DELL,Inspiron 5518,Core i5,Windows 11 Home,512,16,39.62,No,439.28
+822,HP,15s,Ryzen 5 Quad Core,Windows 10 Home,512,8,39.62,No,297.97
+823,HP,14s-ef1001tu,Core i5,Windows 11 Home,512,8,35.56,No,718.79
+824,Acer,AN515-45,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,804.00
+825,HP,15s- fr5011TU,Core i5,Windows 11 Home,512,16,39.62,No,647.88
+826,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+827,HP,14-dv2153TU,Core i5,Windows 11 Home,1000,16,35.56,No,803.99
+828,DELL,Inspiron 3520,Core i3,Windows 11 Home,512,8,39.62,No,473.88
+829,HP,14-EC1019AU,Ryzen 5 Hexa Core,Windows 11 Home,512,16,35.56,No,659.88
+830,HP,15s-fq2627TU,Core i3,Windows 11 Home,512,8,39.62,Yes,532.80
+831,DELL,Inspiron,Core i3,Windows 11 Home,512,8,39.62,Yes,461.88
+832,HP,255 G8,Ryzen 5 Hexa Core,Windows 11 Home,512,8,39.62,No,515.88
+833,DELL,Inspiron 7430,Core i3,Windows 11 Home,1000,8,35.56,Yes,725.88
+834,MSI,Katana 17 B13UCXK-256IN,Core i7,Windows 11 Home,4000,16,43.94,No,1067.88
+835,Infinix,XL25,Core i5,Windows 11 Home,512,8,39.62,No,455.88
+836,HP,13-BE0030AU,Ryzen 5 Hexa Core,Windows 10 Home,512,16,33.78,No,846.00
